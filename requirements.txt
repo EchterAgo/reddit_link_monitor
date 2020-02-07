@@ -1,0 +1,2 @@
+-e git+https://github.com/EchterAgo/praw.git@a6985d9138fcbe323174e659f5d0f81f787e3dd6#egg=praw
+beautifulsoup4>=4.8.2

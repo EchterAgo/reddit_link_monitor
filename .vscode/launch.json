@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: reddit_link_monitor.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/reddit_link_monitor.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}

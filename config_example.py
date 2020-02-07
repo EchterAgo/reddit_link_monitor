@@ -47,5 +47,23 @@ MONITOR_RULES = [
             'electrum.org',
             'electrumsv.io'
         ]
-    }
+    },
+    {
+        'regex': re.compile(r'trezor', re.IGNORECASE),
+        'official_sites': [
+            'trezor.io',
+        ]
+    },
+    {
+        'regex': re.compile(r'ledger', re.IGNORECASE),
+        'official_sites': [
+            'ledger.com',
+        ]
+    },
+    {
+        'regex': re.compile(r'blockchain.info', re.IGNORECASE),
+        'official_sites': [
+            'blockchain.info',
+        ]
+    },
 ]
